@@ -10,3 +10,12 @@ https://github.com/Wisbell/Home-Watcher-API
 
 ## Raspberry Pi Repository
 https://github.com/Wisbell/Home-Watcher-RPI
+
+
+## Planning
+
+# Mock Up
+https://app.moqups.com/coolwest@gmail.com/jaBecVg0QG/view
+
+# Trello
+https://trello.com/b/6tq1eCAc/back-end-capstone
