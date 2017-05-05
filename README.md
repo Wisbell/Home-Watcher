@@ -14,8 +14,11 @@ https://github.com/Wisbell/Home-Watcher-RPI
 
 ## Planning
 
-# Mock Up
+### Mock Up
 https://app.moqups.com/coolwest@gmail.com/jaBecVg0QG/view
 
-# Trello
+### Trello
 https://trello.com/b/6tq1eCAc/back-end-capstone
+
+### Project Architecture
+https://drive.google.com/file/d/0B-OlbwKrJ7vQcUhBZ3l3MVQyV2s/view?usp=sharing
