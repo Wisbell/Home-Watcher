@@ -5,9 +5,7 @@ Home Watcher is a web application allowing a user to maintain surveillance of a 
 ![Alt text](/home-watcher.png?raw=true "Optional Title")
 
 ## Front-End Repository
-https://github.com/Wisbell/Home-Watcher-Front-End
-
-[## Front-End Repository](https://github.com/Wisbell/Home-Watcher-Front-End)
+[Home Watcher Front End Repo](https://github.com/Wisbell/Home-Watcher-Front-End)
 
 ## API Repository
 https://github.com/Wisbell/Home-Watcher-API
