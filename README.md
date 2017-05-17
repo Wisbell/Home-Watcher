@@ -5,22 +5,23 @@ Home Watcher is a web application allowing a user to maintain surveillance of a 
 ![Alt text](/home-watcher.png?raw=true "Optional Title")
 
 ## Front-End Repository
-[Home Watcher Front End Repo](https://github.com/Wisbell/Home-Watcher-Front-End)
+[Home Watcher - Front End Repo](https://github.com/Wisbell/Home-Watcher-Front-End)
 
 ## API Repository
-https://github.com/Wisbell/Home-Watcher-API
+[Home Watcher - Express API](https://github.com/Wisbell/Home-Watcher-API)
 
 ## Raspberry Pi Repository
-https://github.com/Wisbell/Home-Watcher-RPI
+[Home Watcher - RPI functionality](https://github.com/Wisbell/Home-Watcher-RPI)
+
 
 
 ## Planning
 
 ### Mock Up
-https://app.moqups.com/coolwest@gmail.com/jaBecVg0QG/view
+[Original Mock Up](https://app.moqups.com/coolwest@gmail.com/jaBecVg0QG/view)
 
 ### Trello
 https://trello.com/b/6tq1eCAc/back-end-capstone
 
 ### Project Architecture
-https://drive.google.com/file/d/0B-OlbwKrJ7vQcUhBZ3l3MVQyV2s/view?usp=sharing
+[Visualization of Capstone Architecture](https://drive.google.com/file/d/0B-OlbwKrJ7vQcUhBZ3l3MVQyV2s/view?usp=sharing)
